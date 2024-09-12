@@ -5,7 +5,7 @@ This repository contains the initial code I created when learning to use GitHub 
 ## Plan
 Future plans for this repository include adding a sample data file and a [Jupyter](https://jupyter.org) notebook that will interact with the file.
 ## About Me
-I am Kaci McDill, and I am an accountant at Mississippi State University. I am currently enrolled in the Masters of Applied Data Science degree program at MSU.
+I am Kaci McDill, and I am an accountant at Mississippi State University. I am currently enrolled in the **Masters of Applied Data Science** degree program at MSU.
 
 My data science competencies include:
 - Computer Applications
