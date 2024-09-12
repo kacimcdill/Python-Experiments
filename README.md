@@ -14,4 +14,4 @@ My data science competencies include:
 - Data Wrangling
 
 In order to test the inclusion of a photograph, I've included a photo of Franconia Ridge in New Hampshire. I took the photo with my iPhone 12 Pro Max during my Appalachian Trail thru-hike:
-![alt text](20210803_155022468_iOS.heic)
+![Franconia Ridge](Franconia Ridge.jpeg)
